@@ -1,0 +1,68 @@
+
+
+.video{
+	width: 480px;
+	height: 280px;
+	border-style: groove;
+	
+	
+}
+
+div.all {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 500px;
+}
+
+div.all:hover {
+    border: 1px solid #777;
+}
+
+
+div.all video {
+    width: 100%;
+    height: auto;
+}
+
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+    color: white;
+    font-size: 15px;
+}
+#kanu{
+	width: 100%;
+}
+#h1{
+	color: white;
+	font-size: 60px;
+	text-align: center;
+}
+div.h2{
+	color: white;
+	font-size: 60px;
+	text-align: center;
+	position: relative;
+	top: 400px;
+	
+	border: 0;
+}
+div.nam:hover {
+    border: 1px solid #777;
+}
+div.nam video {
+    width: 100%;
+    height: auto;
+}
+div.nam {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 500px;
+}
+#v6{
+	left: 0px;
+	position: relative;
+}
